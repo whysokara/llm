@@ -1,6 +1,6 @@
 import re
 
-File_Path = "/Users/kara/Desktop/llm/docs/shakespeare.txt"
+File_Path = "/Users/kara/Desktop/llm/docs/Shakespeare.txt"
 
 with open(File_Path,"r", encoding="utf-8") as file:
     raw_text = file.read()
